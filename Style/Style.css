@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    height: 100%;
+    letter-spacing: 0.03em;
+    line-height: 1.6;
+}
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 100px;
+    font-weight: 100;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px
+}
+.carta{
+    width: 330px;
+    border-radius: 6px;
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    margin: 20px;
+    text-align: center;
+    transition: all 400ms ease;
+    background-color: white;
+    font-family: sans-serif;
+}
+.carta:hover{
+    transform: translateY(-5%);
+    box-shadow: 5 5px 20px rgba(0, 0, 0, 0.4);
+}
+.carta img{
+    width: 330px;
+    height: 220px;
+
+}
+.carta p{
+    line-height: 1.5;
+    color: #6a6a6a;
+}
+.carta a{
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+    color: #2fb4cc;
+    border: 1px solid #2fb4cc;
+    border-radius: 4px;
+    transition: all 400ms ease;
+}
+.carta a:hover{
+    background: #2fb4cc;
+    color: white;
+}

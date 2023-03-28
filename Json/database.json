@@ -1,0 +1,122 @@
+[
+    {
+        "name": "BUICK REGAL GNX",
+        "motor": "6 cilindros en V",
+        "hp": "304 ",
+        "transmision": "automatica de 5 velocidades",
+        "peso": "1650",
+        "price": "25.600",
+        "img": "../Tarjetas/01.png",
+        "url": "https://www.diariomotor.com/reportajes/buick-gnx-historia/"
+    },
+    {
+        "name": "CHEVROLET CORVETTE",
+        "motor": "8 cilindros en V",
+        "hp": "404 ",
+        "transmision": "automatica de 5 velocidades",
+        "peso": "1583",
+        "price": "67.950",
+        "img": "../Tarjetas/02.png",
+        "url": "https://es.autodata24.com/chevrolet/corvette/corvette-coupe-z06c6/60-i-v8-405-hp/details"
+    },
+    {
+        "name": "CHEVROLET IMPALA LOWRIDER",
+        "motor": "8 cilindros en V",
+        "hp": "280 ",
+        "transmision": "manual de 4 velocidades",
+        "peso": "1741",
+        "price": "55.900",
+        "img": "../Tarjetas/03.png",
+        "url": "https://www.ultimatespecs.com/es/car-specs/Chevrolet/18733/Chevrolet-Impala-II-46-V8.html"
+    },
+    {
+        "name": "FIAT 500 NUOVA",
+        "motor": "2 cilindros en linea",
+        "hp": "13 ",
+        "transmision": "manual de 5 velocidades",
+        "peso": "500",
+        "price": "23.870",
+        "img": "../Tarjetas/04.png",
+        "url": "https://es.wikipedia.org/wiki/Fiat_500_(1957)"
+    },
+    {
+        "name": "FORD MODEL T",
+        "motor": "4 cilindros en lina",
+        "hp": "20 ",
+        "transmision": "manual de 3 velocidades",
+        "peso": "725",
+        "price": "19.500",
+        "img": "../Tarjetas/05.png",
+        "url": "https://www.ultimatespecs.com/es/car-specs/Ford/20867/Ford-Model-T-.html"
+    },
+    {
+        "name": "HUDSON HORNET",
+        "motor": "6 cilindros en linea",
+        "hp": "142 ",
+        "transmision": "manual de 5 velocidades",
+        "peso": "1800",
+        "price": "20.000",
+        "img": "../Tarjetas/06.png",
+        "url": "https://es.wikipedia.org/wiki/Hudson_Hornet"
+    },
+    {
+        "name": "INTERNATIONAL HARVERTER L-170",
+        "motor": "6 cilindros en linea",
+        "hp": "30.4 ",
+        "transmision": "automatica de 5 velocidades",
+        "peso": "7250",
+        "price": "2.600",
+        "img": "../Tarjetas/07.png",
+        "url": "https://content.wisconsinhistory.org/digital/collection/ihc/id/36878"
+    },
+    {
+        "name": "MERCURY CLUB COUPE",
+        "motor": "8 cilindros en V",
+        "hp": "107.5 ",
+        "transmision": "automatica de 4 velocidades",
+        "peso": "1550",
+        "price": "18.600",
+        "img": "../Tarjetas/08.png",
+        "url": "https://www.giman-collection.it/xautousa5087.htm"
+    },
+    {
+        "name": "PLAYMOUTH ROAD RUNNER SUPERBIRD",
+        "motor": "8 cilindros en V",
+        "hp": "425 ",
+        "transmision": "manual de 5 velocidades",
+        "peso": "1803",
+        "price": "110.000",
+        "img": "../Tarjetas/09.png",
+        "url": "https://www.monkeymotor.net/2019/02/ficha-tecnica-plymouth-road-runner-426.html"
+    },
+    {
+        "name": "PORSCHE 911 CARRERA",
+        "motor": "6 cilindros en horizontal",
+        "hp": "385 ",
+        "transmision": "automatica de 8 velocidades",
+        "peso": "1580",
+        "price": "340.000",
+        "img": "../Tarjetas/10.png",
+        "url": "https://www.km77.com/coches/porsche/911/2019/coupe/carrera-s/911-carrera-s-coupe/datos"
+    },
+    {
+        "name": "VOLKSWAGEN TRANSPORTER T1",
+        "motor": "4 cilindros en horizontal",
+        "hp": "25 ",
+        "transmision": "manual de 4 velocidades",
+        "peso": "990",
+        "price": "24.000",
+        "img": "../Tarjetas/11.png",
+        "url": "http://motormania.info/MM/2010/03/18/volkswagen-t1-historia-y-ficha-tenica/"
+    },
+    {
+        "name": "WILLYS MB JEEP",
+        "motor": "4 cilindros en linea",
+        "hp": "54 ",
+        "transmision": "manual de 4 velocidades",
+        "peso": "1113",
+        "price": "35.000",
+        "img": "../Tarjetas/12.png",
+        "url": "https://www.ultimatespecs.com/es/car-specs/Willys-Overland/23043/1942-Willys-Overland-Jeep-MB.html"
+    }
+]
