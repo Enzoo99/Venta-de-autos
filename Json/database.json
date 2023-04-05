@@ -6,7 +6,7 @@
         "transmision": "automatica de 5 velocidades",
         "peso": "1650",
         "price": "25.600",
-        "img": "../Tarjetas/01.png",
+        "img": "/Tarjetas/01.png",
         "url": "https://www.diariomotor.com/reportajes/buick-gnx-historia/"
     },
     {

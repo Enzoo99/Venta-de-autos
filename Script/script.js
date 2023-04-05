@@ -1,6 +1,6 @@
 const contenedorHTML = document.getElementById("contenedor")
 
-fetch("../Json/database.json")
+fetch("./Json/database.json")
     .then(response => response.json())
     .then(data => {
         for(const producto of data){

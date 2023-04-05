@@ -1,3 +1,7 @@
+:root{
+    --color-btn-celeste: #2fb4cc;
+    --color-fuente-gris: #6a6a6a;
+}
 *{
     margin: 0;
     padding: 0;
@@ -30,6 +34,10 @@ body{
     transition: all 400ms ease;
     background-color: white;
     font-family: sans-serif;
+    min-height: 510px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 .carta:hover{
     transform: translateY(-5%);
@@ -42,18 +50,20 @@ body{
 }
 .carta p{
     line-height: 1.5;
-    color: #6a6a6a;
+    color: var(--color-fuente-gris);
 }
 .carta a{
     text-decoration: none;
     display: inline-block;
-    margin-top: 10px;
-    color: #2fb4cc;
-    border: 1px solid #2fb4cc;
+    margin: 10px 0;
+    color: var(--color-btn-celeste);
+    border: 1px solid var(--color-btn-celeste);
     border-radius: 4px;
     transition: all 400ms ease;
+    width: 149px;
+    align-self: center;
 }
 .carta a:hover{
-    background: #2fb4cc;
+    background: var(--color-btn-celeste);
     color: white;
 }
